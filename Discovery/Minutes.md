@@ -21,10 +21,10 @@ Meeting Length:
 * 1h 0m 58ms 00µs
 
 Minute Recorder:
-* Angeles Marin Batana
+* Angeles 
 
 Note Taker:
-* William Robinson took notes on a Google Doc: https://docs.google.com/document/d/1A5xn58gUuzv-8-9am-sAfb667GF-SI8yzULeEdnFJmo/edit?usp=sharing  
+* William took notes on a Google Doc: https://docs.google.com/document/d/1A5xn58gUuzv-8-9am-sAfb667GF-SI8yzULeEdnFJmo/edit?usp=sharing  
 
 What was Discussed:
 - Individual introductions

@@ -13,7 +13,7 @@ Meeting Attendees:
 * Shaum Whitlow
 * William Robinson
 * Angeles Marin Batana
-* Noah Oosterhoff (Mntor)
+* Noah Oosterhoff (Mentor)
 * Leah Casey (Developer)
 * Kazem Namazi (Client)
 

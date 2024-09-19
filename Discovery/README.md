@@ -3,7 +3,7 @@
 This folder contains the documentation from the discover phase of our project.
 
 ## Files in this folder:
-1. Minutes.md
+1. [Minutes.md](https://github.com/angelesmarin/PlacenetCapstoneProject/blob/master/Discovery/Minutes.md)
 * This file contains the meeting details for our first meeting with out client including:
   * Date
   * Time

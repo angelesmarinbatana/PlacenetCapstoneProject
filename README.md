@@ -1,19 +1,22 @@
-# CapstoneProjectTemplate /* Replace this line with the title of your project */
+# Placenet
 
 ## **Summary**
 
-Put a very high-level summary of the project.
+An app that tracks the history of properties, hoping to help aid in affordable housing. 
 
 ## **Team Members**
 
-- Joe Black
-- Joe Pesci
-- Joe Dalton
+- Devlin Hicks
+- Ethan Hoffman
+- William Robinson
+- Shaun Whitlow
+- Angeles Marin Batana
 
 ## **Client Partner Information**
+Kazem Namazi
 
 ### *Company:*
-WHATEVER COMPANY or CORRESPONDENCE
+Placenet 
 
 ### *People:*
 - Jane Fonda

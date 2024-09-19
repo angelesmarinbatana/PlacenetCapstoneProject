@@ -5,6 +5,7 @@
 
 Meeting Medium:
 * in- person meeting at the Student Center
+  * mentor joined on zoom
 
 Meeting Attendees:
 * Devlin Hicks

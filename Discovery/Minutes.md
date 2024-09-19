@@ -4,7 +4,7 @@
 * Time: 6:00 pm - 7:00 pm
 
 Meeting Medium:
-* in- person meeting at the Student Center
+* In- person meeting at the Student Center
   * mentor joined on zoom
     
 Meeting Attendees:

@@ -1,4 +1,4 @@
-#First Iteration Requirements:
+## First Iteration Requirements:
 1. **User Authentication**
 Users will be able to create an account by entering:
    - Email 

@@ -1,3 +1,3 @@
-#Functional Requirements
+# Functional Requirements
 
-#Non-functional Requirments
+# Non-functional Requirments

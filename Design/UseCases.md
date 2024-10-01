@@ -1,6 +1,20 @@
+# Actors
+
+This section outlines the actors that are primary users for the app.
+
+The actors that use the app:
+* Homeowner
+    * Homeowners are the people that actively own a property that would like to track work that has been done to their property. Each homeowner is able to create an account that they will sign into before
+      they can progress. They can then scan documents that will input data into their property profile as well as edit the info if anything is wrong.
+* Tenants
+    * Tenants are owners of a property that are trying to rent to others. Each tenant will be able to create an account that they will sign into before they can progress. They can then scan documents that will input 
+      data into their property profile as well as edit the info if anything is wrong. They can have multiple properties that they can input data into for each of them
+* Users
+    * Users encapsulates both homeowners and tenants which will sum up what both of the paerties are able to do which is scan documents and edit data, as well as have custom profiles to add properties to.
+
 # Use Cases
 
-This document outlines the use cases that will influence the choices for our project.
+This section outlines the use cases that will influence the choices for our project.
 
 ## UC1
 **Actor:** Homeowner 

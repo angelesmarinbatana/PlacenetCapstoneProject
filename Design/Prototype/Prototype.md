@@ -9,7 +9,7 @@ Link to Figma prototype:
 
 Walkthrough of the prototype:
 
-[![Prototype Video](https://youtu.be/CEoBcq1Uhhk)
+* https://youtu.be/CEoBcq1Uhhk
 
 ## Design Process:
 

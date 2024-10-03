@@ -1,75 +1,113 @@
 # Functional Requirements
 
-**FR1. Main Page/ Menu:**
-* Add/ edit property 
-* Add/ edit project
-* Add/edit documents 
+These are grouped by modules.
 
-**FR2. Property Management:**
+## User Management
 
-**High Priority**
-* Add/ edit property 
-users will be able to add/ edit/ update a property on their account with the following data:
-* Property location:
-    * Address 
-    * City 
-    * State 
-    * Zip 
+- FR101: Users can register an account via email and password.
+  - High Priority
+  - BR1
 
-**FR3. Project Management:**
+- FR102: Users can log in to their account with their credentials.
+  - High Priority
+  - BR1
 
-**High Priority**
-* add/ edit project
-User will be able to add/ edit a project on their account with the following data: 
-* Work done to property 
-    * Item name 
-        * Title of what was done 
-    * Date completed
-    * Contractor information:
+- FR103: Users emails and passwords will be stored in a database.
+  - High Priority
+  - BR1
 
-**FR4. Document Management:**
+- FR104: The user can reset their password via a "Forgot Password" button.
+  - Low Priority
+  - BR1
 
-**Medium Priority**
+## Property Management
 
-Users will be able to upload pictures of their documents:
-* Upload receipt/ invoice 
-* Attach document to property 
-* Edit basic data 
-   * Name of document 
-   * Date added
-        
-**FR5. User Authentication:** 
+- FR201: Users can add a new property to their account by providing street address, city, state, and zip.
+ - High Priority
+ - BR1
 
-**Low Priority**
-* Sign up/ in
-* Users will be able to create an account by entering: 
-   * Email 
-   * Password 
+- FR202: Users will need to verify their ownership/authorization to have the property on their profile.
+  - Medium Property
+  - BR1
+ 
+- FR203: Users can edit the property information.
+  - High Priority
+  - BR1
 
-**FR6. User Profile settings:**  
+- FR204: Users can remove properties from their profile.
+  - High Priority
+  - BR1
 
-**Low Priority** 
+## Project Management
 
-Users will be able to update/ edit their info:
-* Can change:
-   * Username 
-   * Email 
-   * Password
+- FR301: Users can add projects to the corresponding property the project is for (project title, description, completion date, current status).
+  - High Priority
+  - BR1
 
-# Non-functional Requirments
+- FR302: Users can edit project information
+  - High Priority
+  - BR1
 
-**NFR1: Performance and Responsiveness**
+- FR303: Users can remove projects from their corresponding properties.
+  - High Priority
+  - BR1
 
-**High Priority**
+## Document Management
 
-* Description: The system must ensure that all main features (e.g., property management, project management, document management, and user authentication) are responsive and efficient.
-* Performance Criteria:
-    * Pages related to property management, project management, and document management must load within 5 seconds when accessed by the user.
-    * Uploading and attaching documents (e.g., receipts, invoices) should not take longer than 5 seconds for files up to 10 MB.
+- FR401: Users can upload digital documents from their files, and attach them to their corresponding project.
+  - High Priority
+  - BR1
 
-**NFR2: Data Security and Privacy**
+- FR402: Users can scan physical documents with their phone camera into the app and attach them to their corresponding projects.
+  - Medium Priority
+  - BR1
 
-**Low Priority**
+- FR403: Users can edit information about the document (not the document itself).
+  - High Priority
+  - BR1
 
-* Description: The system must ensure secure handling of user data, including property details, project information, and uploaded documents.
+- FR404: Users can manually tweak/correct information from scanned documents to ensure correct information.
+  - Medium Priority
+  - BR1
 
+- FR405: Users can remove documents from projects.
+  - High Priority
+  - BR1
+ 
+# Non-functional Requirements
+
+- NR1: The app must have a user-friendly/accessible interface:
+  - High Priority
+  - BR1
+
+- NR2: The app must deploy for mobile devices.
+  - High Priority
+  - BR1
+
+- NR3: Software should be deisgned to scale as userbase increases.
+   - High Priority
+   - BR1
+
+- NR4: When registering for an account, users must verify their email.
+  - Medium Priority
+  - BR1
+
+- NR5: User credentials should be encrypted for privacy.
+  - Medium Priority
+  - BR1
+
+- NR6: APIs should work with our chosen Tech-Stack.
+  - HIGH PRIORITY!!!
+  - BR1
+
+- NR7: Users can log in with the email they used for registration.
+  - Medium Priority
+  - BR1
+
+- NR8: The app should display a list of their properties, projects, and documents.
+  - Medium Priority
+  - BR1
+
+- NR9: The user should be able to sort their items (properties, projects, and documents) with certain criteria (date created, alphabetical, etc.) by applying filters.
+  - Low Priority
+  - BR1

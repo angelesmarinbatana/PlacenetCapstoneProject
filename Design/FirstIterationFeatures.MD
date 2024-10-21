@@ -1,38 +1,27 @@
 ## First Iteration Requirements:
+### This is the core functionality users will be able to perform. 
 
-1. **User Authentication:**
+1. **Main Page/ Menu**
+   - Add a property
+   - Add a project
+   - Upload a document
 
-   Users will be able to create an account by entering:
-   - Email 
-   - Password 
+3. **Property Management (Add a property)**
 
-2. **Main Page/ Menu**
-   - Add/ edit property
-   - Add/ edit project
-   - Add/ edit documents
+   User can add a property by proving data::
+   - Property address (as whole string)
+      - Ex: “**Enter the property address: Address, City, State, Zip**”  
 
-3. **Property Management**
 
-   Users will be able to add/ edit/ update a property on their account with the following data:
-   - Property location:
-     - Address
-     - City
-     - State
-     - Zip 
+4. **Project Management (Add a project)**
 
-4. **Project Management**
+   User can add a project by proving data:
+     - Name
+     - Description (including date complete)
+        - Ex: "**Enter a description of what was done. Please include a date!**"
 
-   Users will be able to add/ edit a project on their account with the following data:
-   - Work done to property:
-     - Item name
-     - Title of what was done
-     - Date completed
+5. **Document Management (Upload a docmument)**
 
-5. **Document Management**
-
-   Users will be able to upload pictures of their documents:
-   - Upload receipt/ invoice
-   - Attach documents to property
-   - Edit basic data:
-     - Name of document
-     - Date added
+   Users can upload a document by 
+   - Uploading a document to a project (PDF)
+      - Ex: "**Upload a recepit/ invoice of work done to your property as a PDF**"

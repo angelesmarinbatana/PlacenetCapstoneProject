@@ -19,7 +19,8 @@
 
 4. **UI Improvement**
    - Improve how the front end looks for the app
-      - Better buttons that follow the color scheme
+      - Better placement of buttons
+      - Have a color scheme that matches the prototype that was given to us
       - Improve how documents are displayed
       - Have better logo on opening screen
 

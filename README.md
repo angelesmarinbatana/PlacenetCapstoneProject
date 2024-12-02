@@ -15,6 +15,9 @@ The Placenet app is a property managment tool that allows users to manage their 
 ## **Client Partner Information**
 Kazem Namazi
 
+## **Project Mentor Information**
+Noah John Oosterhoff
+
 ### *Company:*
 Placenet 
 

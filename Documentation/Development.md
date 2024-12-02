@@ -40,8 +40,9 @@ Insomnia is also recommended for testing the database:
    `git clone https://github.com/angelesmarin/Placenet-App-Backend.git `
 
 3. CD into both directories and run `npm install` to install the required dependencies for both.
+   - Be sure to repeat this command when pulling updated builds from both repos to ensure you have all of the up-to-date dependencies.
 
-4. Create a PostgreSQL database:
+5. Create a PostgreSQL database:
 
     - Name it "placenet"
 
@@ -82,30 +83,31 @@ Insomnia is also recommended for testing the database:
 
     Or just use PGAdmin and create the tables following the specs in the above SQL.
 
-5. In the backend directory, create a file called ".env" and put the following in it:
+6. In the backend directory, create a file called ".env" and put the following in it:
     - `DB_NAME=placenet`
     - `DB_USER=postgres`
     - `DB_PASSWORD=yourpasswordhere`
     - `DB_HOST=127.0.0.1`
     - `DB_PORT=5432`
     - `PORT=3000`
+    - `JWT_SECRET=bat00bataupwcpsEQLbat00bat`
 
     **THIS FILE IS REQUIRED OR THE PROJECT WILL NOT FUNCTION**
 
-6. Navigate to the [api.js script](https://github.com/angelesmarin/Placenet-App-Frontend/blob/development/API/api.js) and change `localhost` to your own IP.
+7. Navigate to the [api.js script](https://github.com/angelesmarin/Placenet-App-Frontend/blob/development/API/api.js) and change `localhost` to your own IP.
 
-7. Connect to the database with:
+8. Connect to the database with:
 
     - `psql -U postgres -d placenet`
     - Or connect to it in PGAdmin
 
     Enter your postgres password when prompted in either case.
 
-8. Start the backend by running the following while cd'd into the backend directory:
+9. Start the backend by running the following while cd'd into the backend directory:
 
     > node startServer.js backend
 
-9. Start the frontend by running the following while cd'd into the frontend directory:
+10. Start the frontend by running the following while cd'd into the frontend directory:
 
     > npx expo start
 

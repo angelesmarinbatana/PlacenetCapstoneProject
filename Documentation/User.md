@@ -1,57 +1,57 @@
-# How to use the Placenet App (Iteration 1)
+# How to use the Placenet App (Iteration 2)
 
-### Accessing and Signing In
+### Welcome Page
+When you first access the app, you will see the welcome page where you will be prompted to sign into your existing account, or create an account by signing up.
+1.  Click 'Sign Up'
 
-1. Press "Click to Enter"
+<img src="images/index.PNG" alt="Welcome Page" width="200">
 
-<img src="images/home.jpeg" alt="Home Page" width="200">
+### Sign Up
+After clicking 'Sign Up', you will be prompted to enter a username, and a password. 
 
-2. Enter your username and password, then press "Log In"
+2. Enter a username and password, then press 'Sign Up'
 
-<img src="images/sign_in.jpeg" alt="Home Page" width="200">
+<img src="images/sign_up.PNG" alt="Sign Up" width="200">
 
-The main menu should look like this:
+### Sign In
+After creating an account, you will be navigated to the 'sign in' page to sign into your newly created account. 
 
-<img src="images/main_menu.jpeg" alt="Home Page" width="200">
+3. Enter your credenitals to sign into your account, then press 'Sign In'
 
-### Property Management
+<img src="images/sign_in.PNG" alt="Sign Up" width="200">
 
-1. Press the "Add a new Property" button after signing in.
+### Main Menu 
+After signing in with your credentials, you will be navigated to the 'main menu' page where you will be presented with a list of options including adding a property, adding a project, adding an invoice, seeing your property summary, and seeing the community property summaries. Begin by pressing the 'Add a New Property' page.
 
-2. If no properties have been added, simply enter the address of the property in the proper fields as shown, then press "Add Property".
+4. Press 'Add a New Property' page
+   
+<img src="images/menu.PNG" alt="Menu" width="200">
 
-<img src="images/add_property.jpeg" alt="Home Page" width="200">
+### Property Management  
+You will see fields that you will need to enter, including street name, city, state, and zip code for your properties. After filling these values in, you will be able to add your property by pressing the 'Add Property' button, after which you will see a success message and will see your property displayed on the page. 
 
-3. To edit a property, press the edit button next to the property and change the info as needed, then press "Update Property".
+5. Fill in 'Street', 'City', 'State', and 'Zip Code' values and select 'Add Property'
+   
+<img src="images/property.PNG" alt="Property Managment" width="200">
 
-4. To delete a property, press the red button next to the address.
+### Project Management  
+You select the property you wish to add a project to. A project is any work done to your property, which could include renovations, repairs, upgrades, etc. You will then be prompted to enter fields including the name of your project, a description for your project, and the date in which your project was completed. You will then be able to add your project by selecting 'Add Project'. You will see your project displayed on the screen and will be given the option to edit or delete your project. 
 
-<img src="images/update_or_delete_property.jpeg" alt="Home Page" width="200">
+6. Select a property for your project, and enter 'Project Name', 'Project Description', and select a 'Completion Date', then select 'Add Project'.
+   
+<img src="images/project.PNG" alt="Project Managment" width="200">
 
-### Project Management
+### Document Management  
+Similarly to project managment, you select the project you wish to add a document to. A document will be a PDF file that could include invoices, recepts, etc to demonstrate the work done to your property. You will be prompted to upload a PDF file from your device and you will see it displayed in the page. You will be given the option to download this file again, which downloads your file from a web browser, or delete this file.  
 
-1. Press the "Add a New Project" button after signing in.
+7. Select a project for your document, and upload a pdf file.
+   
+<img src="images/document.PNG" alt="Document Managment" width="200">
 
-2. Enter the name of the project, a brief description, and the date of the project in the respective fields. Then press "Add Project". 
+### Property Summary  
+The property summary page will allows you to see a summary of all your properties, and associated projects and documents.    
+<img src="images/prop_sum.PNG" alt="Property Summary" width="200">
 
-**It is heavily advised to note the address of the property the project is for in the description for this iteration.**
-
-<img src="images/add_project.jpeg" alt="Home Page" width="200">
-
-3. To edit a project, press the "Edit" button right below the project you wish to edit.
-
-4. To delete a project, press the "delete" button beneath the project you wish to delete.
-
-<img src="images/update_or_delete_project.jpeg" alt="Home Page" width="200">
-
-### Document Management
-
-1. Press "Add an Invoice/Receipt" after signing in.
-
-2. Press "upload your file", then select the document you wish to upload.
-
-<img src="images/add_invoice_or_receipt.jpeg" alt="Home Page" width="200">
-
-3. To remove a document, simply press the "Remove" button below the name of the document.
-
-<img src="images/remove_invoice_or_receipt.jpeg" alt="Home Page" width="200">
+### Community Property Summary  
+The community property summaries page will allows you to see a summary of all the properties, and associated projects and documents of all the members of the placenet app.  
+<img src="images/social_sum.PNG" alt="Community Property Summary" width="200">

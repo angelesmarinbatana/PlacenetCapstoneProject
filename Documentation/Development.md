@@ -94,7 +94,7 @@ Insomnia is also recommended for testing the database:
 
     **THIS FILE IS REQUIRED OR THE PROJECT WILL NOT FUNCTION**
 
-7. Navigate to the [api.js script](https://github.com/angelesmarin/Placenet-App-Frontend/blob/development/API/api.js) and change the `baseURL` to have your own IP. Keep 300 as the port. 
+7. Navigate to the [api.js script](https://github.com/angelesmarin/Placenet-App-Frontend/blob/development/API/api.js) and change the `baseURL` to have your own IP. Keep 3000 as the port. 
 
 8. Connect to the database with:
 

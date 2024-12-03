@@ -31,5 +31,5 @@ Have measures to prevent
 8. **Enhanced Comunity Property Summaries**
   - Allow users to download information like invoice documents from community property summaries 
 
-9. **Enhanced security **
-Enhance backend security with HTTPS integration 
+9. **Enhanced security**
+- Enhance backend security with HTTPS integration 

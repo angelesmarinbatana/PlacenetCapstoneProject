@@ -26,10 +26,10 @@
 
 7. **Duplicate Prevention**
 Have measures to prevent 
-- duplicate user accounts and properties 
+   - duplicate user accounts and properties 
 
 8. **Enhanced Comunity Property Summaries**
-  - Allow users to download information like invoice documents from community property summaries 
+     - Allow users to download information like invoice documents from community property summaries 
 
 9. **Enhanced security**
-- Enhance backend security with HTTPS integration 
+   - Enhance backend security with HTTPS integration 

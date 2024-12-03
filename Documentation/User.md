@@ -49,9 +49,9 @@ Similarly to project managment, you select the project you wish to add a documen
 <img src="images/document.PNG" alt="Document Managment" width="200">
 
 ### Property Summary  
-The property summary page will allows you to see a summary of all your properties, and associated projects and documents.    
+The property summary page will allow you to see a summary of all your properties, and associated projects and documents.    
 <img src="images/prop_sum.PNG" alt="Property Summary" width="200">
 
 ### Community Property Summary  
-The community property summaries page will allows you to see a summary of all the properties, and associated projects and documents of all the members of the placenet app.  
+The community property summaries page will allow you to see a summary of all the properties, and associated projects and documents of all the members of the placenet app.  
 <img src="images/social_sum.PNG" alt="Community Property Summary" width="200">

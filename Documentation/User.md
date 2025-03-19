@@ -37,7 +37,7 @@ You will see fields that you will need to enter, including street name, city, st
 
 To view the location of a property on the map, press the "Map View" button. Something like this should appear:
 
-<img src="images/mapiew_prop.PNG" alt="Property Map View" width="200">
+<img src="images/mapiew_prop.png" alt="Property Map View" width="200">
 
 ### Project Management  
 You select the property you wish to add a project to. A project is any work done to your property, which could include renovations, repairs, upgrades, etc. You will then be prompted to enter fields including the name of your project, a description for your project, and the date in which your project was completed. You will then be able to add your project by selecting 'Add Project'. You will see your project displayed on the screen and will be given the option to edit or delete your project. 
@@ -59,7 +59,7 @@ The property summary page will allow you to see a summary of all your properties
 
 Press "View All Properties on Map" to view every property on the map, like this:
 
-<img src="images/mapview_sum.PNG" alt="Property Summary" width="200">
+<img src="images/mapview_sum.png" alt="Property Summary" width="200">
 
 ### Community Property Summary  
 The community property summaries page will allow you to see a summary of all the properties, and associated projects and documents of all the members of the placenet app.  

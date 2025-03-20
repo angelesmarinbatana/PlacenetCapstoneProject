@@ -11,14 +11,14 @@ After clicking 'Sign Up', you will be prompted to enter an email, and a password
 
 2. Enter an email and password, then press 'Sign Up'
 
-<img src="images/sign_up.png" alt="Sign Up" width="200">
+<img src="images/sign_up.PNG" alt="Sign Up" width="200">
 
 ### Sign In
 After creating an account, you will be navigated to the 'sign in' page to sign into your newly created account. 
 
 3. Enter your credenitals to sign into your account, then press 'Sign In'
 
-<img src="images/sign_in.png" alt="Sign Up" width="200">
+<img src="images/sign_in.PNG" alt="Sign Up" width="200">
 
 ### Main Menu 
 After signing in with your credentials, you will be navigated to the 'main menu' page where you will be presented with a list of options including adding a property, adding a project, adding an invoice, seeing your property summary, and seeing the community property summaries. Begin by pressing the 'Add a New Property' page.

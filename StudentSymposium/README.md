@@ -2,4 +2,6 @@
 
 ## People that listened to the porject 
 1. Alissa McDonald
+<img src="/alisssa.PNG" alt="Welcome Page" width="200">
+
 

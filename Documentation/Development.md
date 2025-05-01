@@ -26,7 +26,7 @@ Download the Expo Go app on your mobile device for mobile testing.
 
 1. Clone the frontend using: 
 
-   `git clone https://github.com/angelesmarin/Placenet-App-Frontend.git`
+   `git clone https://github.com/angelesmarinbatana/Placenet-App-Source.git`
 
 2. Run `npm install` to install the required dependencies.
    - Be sure to repeat this command when pulling updated builds from the repo to ensure you have all of the up-to-date dependencies.

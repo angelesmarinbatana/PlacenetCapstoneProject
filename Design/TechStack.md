@@ -19,4 +19,5 @@ We picked Firebase per our client's request. It handles our user sign-in and dat
 ## Tools 
 **Expo**
 [Expo Official Website](https://expo.dev)
+
 We are using expo for its cross-platform, quick app development, and easy testing.

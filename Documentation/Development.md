@@ -30,13 +30,16 @@ Download the Expo Go app on your mobile device for mobile testing.
 
 2. Run `npm install` to install the required dependencies.
    - Be sure to repeat this command when pulling updated builds from the repo to ensure you have all of the up-to-date dependencies.
+
+
+3. Create a file called .env in the root of the project and put the following in it: `GOOGLE_MAPS_API_KEY = <your_google_maps_api_key_in_quotes>`
      
     
-3. Start the project by running the following while cd'd into the directory:
+4. Start the project by running the following while cd'd into the directory:
 
     > npx expo start
 
-4. To stop the process, simply press Ctrl/Cmd + C in the command window, or just close the window.
+5. To stop the process, simply press Ctrl/Cmd + C in the command window, or just close the window.
    
    
 

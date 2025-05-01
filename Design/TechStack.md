@@ -17,5 +17,6 @@ We chose React Native because it allows us to build cross-platform mobile applic
 We picked Firebase per our client's request. It handles our user sign-in and database managamenet, along with document storage, and cloud functions 
 
 ## Tools 
+**Expo**
 [Expo](https://expo.dev)
 We are using expo for its cross-platform, quick app development, and easy testing.

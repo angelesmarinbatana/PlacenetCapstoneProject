@@ -27,7 +27,6 @@ Placenet
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
-- [First Iteration Features/Requirements](Design/FirstIterationFeatures.MD)
 
 ## **Code Repositories**
 

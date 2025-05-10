@@ -27,6 +27,7 @@ Placenet
 - [Team meeting minutes](MeetingMinutes/Team)
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
+- [User Guide](https://github.com/angelesmarinbatana/PlacenetCapstoneProject/blob/master/Documentation/User.md)
 
 
 

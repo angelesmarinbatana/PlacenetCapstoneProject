@@ -28,8 +28,6 @@ Placenet
 - [Mentor meeting minutes](MeetingMinutes/Mentor)
 - [Client partner meeting minutes](MeetingMinutes/ClientPartner)
 
-## **Code Repositories**
 
-- [Source Code](https://github.com/angelesmarin/Placenet-App-Frontend)
 
 
